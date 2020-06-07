@@ -5,13 +5,14 @@
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
-    "lite": "lite-server"
+    "lite": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Abhishek yadav",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^4.5.0"
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1"
   },
   "devDependencies": {
     "lite-server": "^2.5.4"
